@@ -1,0 +1,13 @@
+2nd submission progress: 
+
+Since Chen and I are from different departments, we have different schedules. Therefore, we have decided to split this project into two individual parts so that we can work at different time and location. However, we meet twice a week to discuss our progress, share new thoughts, and do some peer reviews. In addition to regular meetings, we will start using github to interact online in the future.  
+
+In order to build a general understanding of the PLS algorithm, we went over several documentations and papers, such as "PARTIAL LEAST-SQUARES REGRESSION: A TUTORIAL", "An Introduction to Partial Least Squares Regression", and several valuable online resources. We will conclude the features of these previous works and put them in the literature review section for the final draft. Most of these methods provide inspiring understandings towards PLS, and some of them suggest innovative ways to code the algorithm. 
+
+In addition to PLS algorithm, this paper also focuses on MLR, PCA, and PCR algorithms, providing comprehensive results of comparsions between original codes/packages with the optimized codes. 
+
+At this stage of the project. We have written up some working code according to PLS, MLR, PCA, PCR algorithms amd start to optimize them through different methods we have learned on class. We have also generated several data set in order to prepare the future comparisons. In addition, we have also generated test codes from existing packages/algorithms for testing the results. Tests have been made for most algorithms. We will include a section explaining the test results in detail in the final paper.
+
+Write ups and introduction are splited according to different sections. Since we do not have the ultimate results, we only include short explanations and introductions at this stage.
+
+Future work includes two major parts: finishing optimization process and comparing results. We need some time to develop the best optimization code, which is a hard future step to take.
